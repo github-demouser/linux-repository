@@ -1,0 +1,5 @@
+INSERT INTO Students ( studentID, LastName, FirstName, City) VALUES ( "001", "KUMAR", "ANIL", "SINGAPORE");
+INSERT INTO Students ( studentID, LastName, FirstName, City) VALUES ( "001", "NAVEEN", "K", "HYDERABAD");
+INSERT INTO Students ( studentID, LastName, FirstName, City) VALUES ( "001", "RAMESH", "S", "MAHALINGI");
+INSERT INTO Students ( studentID, LastName, FirstName, City) VALUES ( "001", "RAGHU", "P", "NANDED");
+INSERT INTO Students ( studentID, LastName, FirstName, City) VALUES ( "001", "VIJAY", "R", "MUMBAI");

@@ -1,0 +1,12 @@
+public class wap
+{
+public static void main (string args[])
+{
+int a=10,b=20,c;
+system.out.println("before swap:"+a+"+"b);
+c=a;
+a=b;
+b=c;
+system.out. println("after swap:"+a+"+b);
+}
+}

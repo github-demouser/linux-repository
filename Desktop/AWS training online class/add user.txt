@@ -1,0 +1,10 @@
+sudo useradd laxmikanth
+sudo su - laxmikanth
+mkdir .ssh
+ls -alh
+chmod 700 .ssh/
+cd .ssh
+touch authorized_keys
+chmod 600 authorized_keys
+vi authorized_keys
+wq!
